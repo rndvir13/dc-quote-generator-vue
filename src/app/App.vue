@@ -18,7 +18,7 @@ const handle = () => {
     </div>
     <router-view />
     <p class="text-3.5 text-center text-#828282 px-6 py-6">
-      created by <a class="hover:underline hover:text-#333333" href="#">rndvir13</a> - <a class="hover:underline hover:text-#333333" href="#">devChallenges.io</a>
+      created by <a class="hover:underline hover:text-#333333" href="https://github.com/rndvir13" target="_blank">rndvir13</a> - <a class="hover:underline hover:text-#333333" href="https://devchallenges.io/" target="_blank">devChallenges.io</a>
     </p>
   </div>
 </template>
